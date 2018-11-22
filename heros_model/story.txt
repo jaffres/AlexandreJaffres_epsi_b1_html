@@ -1,0 +1,37 @@
+﻿story 1
+-------
+Le début d'un mythe
+Après un long voyage, vous arrivez dans une clairière où se dresse un étrange monument. Celui-ci semble être surmonté d'une magnifique épée scellée dans la roche.
+1) Je m'approche prudemment de l'épée. (story 3)
+2) Ça sent le piège, je passe mon chemin. (story 2)
+3) Je sors mon arc pour parer à tout danger. (story 4)
+
+story 3
+-------
+Proche du but
+Vous êtes à présent à quelques pas de l'épée. Vous vous demandez si la sensation d'énergie qui parcours votre corps est bien réelle.
+1) Après avoir fait voeux pieux, vous posez votre main sur l'épée en vous inclinant. (story 6)
+2) Une des comptines de votre village parle de crachez sur les épées enchantées, vous vous executez. (story 5)
+
+story 2
+-------
+Après réflexion, vous décidez de rebrousser chemin. Malheureusement, il vous est impossible de retrouver cette clairière... Damned !
+FIN
+
+story 4
+-------
+La fée sait...
+Vous voyant sortir votre arc, les fées interprètent votre attitude comme agressive. Elles se jettent sur vous, sans que vous ne puissiez rien faire. Paralysé, elles vous entrainent au fond des eaux...
+FIN
+
+story 5
+-------
+Méfier-vous des ragôts...
+Un puissant sortilège vous expédie à 200 pieds au dessus des arbres. Il ne vous reste plus que le temps de cette chute effroyable pour revoir en accéléré le cours de votre vie...
+FIN
+
+story 6
+-------
+La récompense des dieux !
+Une voix douce et cristalline résonne dans votre esprit : "que la chance soit avec toi". Bravo, vous savez à présent que vous avez trouvé un artefact légendaire...
+VICTOIRE
